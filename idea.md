@@ -11,6 +11,8 @@ weather will be in the following summer.
 
 # Data Sets
 
+TODO: describe the data sets
+
 - [Böögg burning times](https://www.kaggle.com/kkanders/historical-monthly-temperatures-in-switzerland/download)
 - [Historical Monthly Precipitation in Switzerland](https://www.kaggle.com/kkanders/historical-monthly-precipitation-in-switzerland/download)
 - [Historical Monthly Temperatures in Switzerland](https://www.kaggle.com/kkanders/sechselaeuten/download)
@@ -20,3 +22,10 @@ weather will be in the following summer.
 Is there a correlation between the time it takes for the «Böög's» head to
 explode and a good weather in the subsequent summer (warm temperatures and low
 precipitation)?
+
+## Related Questions
+
+TODO: find and formulate related minor questions
+
+- what is "good weather"?
+- does rain correlate with high temperatures?
