@@ -1,7 +1,7 @@
 ---
 title: 'Project Idea'
 subtitle: 'Data Science Basics'
-author: Group 8
+author: Group 8 (L. Schuler, M. Thalmann, F. Meyer, P. Bucher)
 ---
 
 The Sechseläuten is a yearly tradition in Zurich taking place in April, where a
@@ -17,7 +17,6 @@ weather will be in the following summer.
 
 # Research Question
 
-Is there a correlatoin with the time it takes for the «Böög's» head to explode
+Is there a correlation with the time it takes for the «Böög's» head to explode
 and a good weather in the subsequent summer (warm temperatures and low
 precipitation)?
-
