@@ -17,6 +17,6 @@ weather will be in the following summer.
 
 # Research Question
 
-Is there a correlation with the time it takes for the «Böög's» head to explode
-and a good weather in the subsequent summer (warm temperatures and low
+Is there a correlation between the time it takes for the «Böög's» head to
+explode and a good weather in the subsequent summer (warm temperatures and low
 precipitation)?
